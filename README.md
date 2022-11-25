@@ -1,5 +1,5 @@
-# MNIST-CANVAS
-A web canvas that you can draw and see the MNIST classification result distribution.
+# mnist-canvas
+Page: ruiyangju.github.io/mnist-canvas/
 
 
 
