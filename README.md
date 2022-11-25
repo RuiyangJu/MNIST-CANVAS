@@ -15,9 +15,11 @@ A web canvas that you can draw and see the MNIST classification result distribut
 
 ## Usage
   Train the model:
+  
       python3 main.py
   
   Convert pth to onnx:
+  
       python3 convert.py
 
   optional arguments:
