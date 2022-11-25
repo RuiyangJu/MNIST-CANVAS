@@ -1,7 +1,8 @@
-# mnist-canvas
-Page: ruiyangju.github.io/mnist-canvas/
+# [mnist-canvas page] (ruiyangju.github.io/mnist-canvas/）
 
-
+<p align="center">
+  <img src="mnist.jpg" width="640" title="mnist">
+</p>
 
 
 上課內容：
