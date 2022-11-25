@@ -36,6 +36,11 @@ __Adam Optimizer__
 __1e-3__ for [1,10] epochs <br>
 __5e-4__ for [10,20] epochs <br>
       
+## Results
+For more details, you can read [mobilenetv2_detail.txt](mobilenetv2_detail.txt)
+| Model | MNIST Test Accuracy (%) | FLOPs (G) | MAdd (G) | Memory (MB) | #Params (M) |
+| MobileNetV2 | 14.06 | 2.42 | 4.75 | 384.78 | 2.37 |
+
 ## 上課內容：
 * HTML -> 網站上的物件有哪些
 * CSS -> 物件要長怎樣
