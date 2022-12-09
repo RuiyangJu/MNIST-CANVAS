@@ -25,7 +25,7 @@ let x2 = 0;
 let y2 = 0;
 
 const sess = new onnx.InferenceSession();
-const loadingModelPromise = sess.loadModel("model.onnx");
+const loadingModelPromise = sess.loadModel("mnist/model.onnx");
 
 async function updatePredictions() {
     // Get the predictions for the canvas data.
