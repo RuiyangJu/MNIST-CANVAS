@@ -25,7 +25,7 @@ A web canvas that you can draw and see the MNIST classification result distribut
   optional arguments:
   
       --lr                default=1e-3    learning rate
-      --epoch             default=10      number of epochs tp train for
+      --epoch             default=30      number of epochs tp train for
       --trainBatchSize    default=128     training batch size
       --testBatchSize     default=128     test batch size
       --optimizer         default=adam    optimizer
