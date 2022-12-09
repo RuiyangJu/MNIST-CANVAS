@@ -34,9 +34,9 @@ A web canvas that you can draw and see the MNIST classification result distribut
 We use GPU RTX 3050 to train MobileNetv2 model on MNIST dataset.
 For more details, you can read [mobilenetv2_detail.txt](mobilenetv2_detail.txt).
 
-| Model | MNIST Test Accuracy (%) | FLOPs (G) | MAdd (G) | Memory (MB) | #Params (M) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| MobileNetV2 | 99.13 | 2.42 | 4.75 | 384.78 | 2.37 |
+| Model | MNIST Test Accuracy (%) |
+| :---: | :---: |
+| MobileNetV2 | 98.94 |
 
 ## 上課內容：
 * HTML -> 網站上的物件有哪些
