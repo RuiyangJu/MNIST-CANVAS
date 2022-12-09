@@ -25,16 +25,10 @@ A web canvas that you can draw and see the MNIST classification result distribut
   optional arguments:
   
       --lr                default=1e-3    learning rate
-      --epoch             default=20     number of epochs tp train for
+      --epoch             default=10      number of epochs tp train for
       --trainBatchSize    default=128     training batch size
       --testBatchSize     default=128     test batch size
- 
-## Config
-###### Optimizer 
-__Adam Optimizer__
-###### Learning Rate
-__1e-3__ for [1,10] epochs <br>
-__5e-4__ for [10,20] epochs <br>
+      --optimizer         default=adam    optimizer
       
 ## Results
 We use GPU RTX 3050 to train MobileNetv2 model on MNIST dataset.
